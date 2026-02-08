@@ -312,7 +312,7 @@
             "last_commit": "2026-01-22T04:19:02Z",
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5564
+            "stars": 5566
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-02-02T03:05:16Z",
             "owner": "giswqs",
             "repo": "leafmap",
-            "stars": 3661
+            "stars": 3662
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2026-02-07T01:10:17Z",
             "owner": "giswqs",
             "repo": "geemap",
-            "stars": 3867
+            "stars": 3868
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2026-02-02T23:50:51Z",
             "owner": "rasterio",
             "repo": "rasterio",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2025-12-08T02:02:07Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67110
+            "stars": 67108
           }
         },
         {
@@ -666,10 +666,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-05T01:13:08Z",
+            "last_commit": "2026-02-08T03:33:39Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10216
+            "stars": 10217
           }
         },
         {
@@ -791,10 +791,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-05T09:07:02Z",
+            "last_commit": "2026-02-08T02:22:03Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 8756
+            "stars": 8757
           }
         }
       ],
@@ -822,10 +822,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:37:43.897Z",
+    "last_updated": "2026-02-08T04:24:54.984Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "source_repository": "v1nvn/enhansome-urban-and-regional-planning-resources",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Urban & Regional Planning Resources"
   }
 }
