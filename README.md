@@ -1,6 +1,6 @@
 ***
 
-# Urban & Regional Planning Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,096 | 🐛 77 | 📅 2026-03-09 <!-- omit in toc -->
+# Urban & Regional Planning Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,297 | 🐛 80 | 📅 2026-03-09 <!-- omit in toc -->
 
 [![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/stargazers) ⭐ 328 | 🐛 2 | 📅 2026-02-28
 [![GitHub forks](https://img.shields.io/github/forks/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources) ⭐ 328 | 🐛 2 | 📅 2026-02-28
@@ -112,7 +112,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Built Environment
 
 * [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) - The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States.
-* [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) ⭐ 2,213 | 🐛 47 | 📅 2024-11-07 - Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains \~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+* [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) ⭐ 2,215 | 🐛 47 | 📅 2024-11-07 - Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains \~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 * [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - A dataset intended to provide access to consistent, and nationally available point based structure inventories with attribution to support evaluation of consequences from natural and man-made hazards.
 
 ### Climate
@@ -360,9 +360,9 @@ Python Libraries & Related Resources.
 
 * [Prettymaps](https://github.com/marceloprates/prettymaps) ⭐ 12,213 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2025-08-31 - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 * [OSMnx](https://github.com/gboeing/osmnx) ⭐ 5,604 | 🐛 8 | 🌐 Python | 📅 2026-03-11 - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-* [Geemap](https://github.com/giswqs/geemap) ⭐ 3,893 | 🐛 38 | 🌐 Python | 📅 2026-03-12 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
-* [Leafmap](https://github.com/giswqs/leafmap) ⭐ 3,684 | 🐛 1 | 🌐 Python | 📅 2026-03-10 - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
-* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,497 | 🐛 149 | 🌐 Python | 📅 2026-03-10 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+* [Geemap](https://github.com/giswqs/geemap) ⭐ 3,894 | 🐛 37 | 🌐 Python | 📅 2026-03-13 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+* [Leafmap](https://github.com/giswqs/leafmap) ⭐ 3,684 | 🐛 0 | 🌐 Python | 📅 2026-03-10 - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+* [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) ⭐ 2,498 | 🐛 148 | 🌐 Python | 📅 2026-03-14 - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 * [Pybikes](https://github.com/eskerda/pybikes) ⭐ 598 | 🐛 31 | 🌐 Python | 📅 2026-03-11 - Provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 * [UrbanSim](https://github.com/udst/urbansim) ⭐ 534 | 🐛 26 | 🌐 Python | 📅 2023-12-06 - A platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 * [Geosnap](https://github.com/spatialucr/geosnap) ⭐ 269 | 🐛 15 | 🌐 Python | 📅 2026-03-09 - Geospatial & temporal neighborhood analysis using US Census Data.
@@ -418,8 +418,8 @@ Other coding special projects and/or other resources.
 
 Front-end web related packages and resources.
 
-* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,254 | 🐛 537 | 🌐 JavaScript | 📅 2026-02-28.
-* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,283 | 🐛 295 | 🌐 TypeScript | 📅 2026-03-13.
+* [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub](https://github.com/chartjs/Chart.js) ⭐ 67,259 | 🐛 538 | 🌐 JavaScript | 📅 2026-02-28.
+* [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf) ⭐ 10,284 | 🐛 295 | 🌐 TypeScript | 📅 2026-03-13.
 * [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 * [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 * [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
@@ -473,7 +473,7 @@ Software, tools, and platforms intended to aid environmental planning or climate
 * [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 * [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed.
 * [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-* [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) ⭐ 261 | 🐛 119 | 🌐 Python | 📅 2026-03-12 tools for the analysis and optimization of urban energy systems.
+* [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) ⭐ 262 | 🐛 119 | 🌐 Python | 📅 2026-03-13 tools for the analysis and optimization of urban energy systems.
 * [EPA WARM Model](https://www.epa.gov/warm) - EPA created the Waste Reduction Model (WARM) to provide high-level estimates of potential greenhouse gas (GHG) emissions reductions, energy savings, and economic impacts from several different waste management practices.
 * [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
 * [LEARN](https://icleiusa.org/LEARN/) - This interactive web mapping tool was developed to help communities in the USA estimate the local greenhouse gas (GHG) impacts of their forests and trees.
@@ -490,7 +490,7 @@ Software, tools, and platforms for geospatial visualization.
 * [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 * [ScapeToad](http://scapetoad.choros.place/index.php) - A cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
 * [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 8,819 | 🐛 298 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 8,820 | 🐛 298 | 🌐 Python | 📅 2025-12-20 - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 * [Felt](https://felt.com/) - A web based mapping application that enables multple users to colloboratively edit and view in data in real-time.
 
 ### Immersive Planning and Design Platforms
@@ -537,7 +537,7 @@ Software, tools, and platforms intended to aid with public engagement and outrea
 
 Software, tools, and platforms to assist with urban design and similar creative applications in built environments. This includes 3D modeling tools, rendering, and different XR applications.
 
-* [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets](https://github.com/d-wasserman/Complete_Street_Rule) ⭐ 211 | 🐛 2 | 🌐 Python | 📅 2026-03-10 & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
+* [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets](https://github.com/d-wasserman/Complete_Street_Rule) ⭐ 211 | 🐛 2 | 🌐 Python | 📅 2026-03-13 & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 * [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs.
 * [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis.
 * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others.
@@ -625,12 +625,12 @@ Other types of planning data & technology resources. They are a good source of i
 
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.
 
-* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 8,809 | 🐛 23 | 📅 2026-03-12 - Review of the generative AI landscape including tools/utilities.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,227 | 🐛 22 | 📅 2026-03-06 - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,470 | 🐛 2 | 📅 2026-02-01 - GeoJSON utilities that will make your life easier.
-* [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,458 | 🐛 84 | 📅 2026-03-11 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-* [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,696 | 🐛 18 | 📅 2026-01-30 - A collection of transit data tools and resources.
-* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,691 | 🐛 4 | 📅 2026-01-05 - Open source technology for agriculture, farming, and gardening.
+* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 8,811 | 🐛 22 | 📅 2026-03-12 - Review of the generative AI landscape including tools/utilities.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,232 | 🐛 23 | 📅 2026-03-06 - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,470 | 🐛 3 | 📅 2026-02-01 - GeoJSON utilities that will make your life easier.
+* [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,458 | 🐛 89 | 📅 2026-03-13 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
+* [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,697 | 🐛 18 | 📅 2026-01-30 - A collection of transit data tools and resources.
+* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,692 | 🐛 6 | 📅 2026-01-05 - Open source technology for agriculture, farming, and gardening.
 * [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) ⭐ 33 | 🐛 0 | 📅 2022-10-04 - A collection of micromobility tools and data resources.
 
 ### Other Technology Resource Aggregators
