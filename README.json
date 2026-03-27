@@ -304,7 +304,7 @@
             "last_commit": "2026-03-09T04:45:20Z",
             "owner": "oturns",
             "repo": "geosnap",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-03-23T21:24:32Z",
             "owner": "opengeos",
             "repo": "leafmap",
-            "stars": 3683
+            "stars": 3686
           }
         },
         {
@@ -415,10 +415,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-25T23:32:22Z",
+            "last_commit": "2026-03-26T17:10:14Z",
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 3900
+            "stars": 3905
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2026-03-24T16:56:47Z",
             "owner": "rasterio",
             "repo": "rasterio",
-            "stars": 2500
+            "stars": 2501
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-02-28T01:49:55Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67307
+            "stars": 67310
           }
         },
         {
@@ -674,7 +674,7 @@
             "last_commit": "2026-03-16T18:41:24Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10300
+            "stars": 10301
           }
         },
         {
@@ -760,7 +760,7 @@
             "last_commit": "2026-03-06T00:39:05Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5245
+            "stars": 5246
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2026-02-01T17:22:46Z",
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -796,10 +796,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-23T16:01:12Z",
+            "last_commit": "2026-03-26T07:36:03Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 8826
+            "stars": 8830
           }
         }
       ],
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:23:22.622Z",
+    "last_updated": "2026-03-27T04:24:28.515Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "source_repository": "v1nvn/enhansome-urban-and-regional-planning-resources",
     "source_repository_description": null,
