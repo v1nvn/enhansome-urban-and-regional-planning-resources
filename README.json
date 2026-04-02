@@ -211,7 +211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-03-04T13:57:08Z",
+            "last_commit": "2026-04-02T00:07:59Z",
             "owner": "zephyr-data-specs",
             "repo": "GMNS",
             "stars": 128
@@ -265,7 +265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T14:32:06Z",
+            "last_commit": "2026-04-01T14:48:33Z",
             "owner": "python-visualization",
             "repo": "folium",
             "stars": 7351
@@ -330,7 +330,7 @@
             "last_commit": "2026-03-28T15:39:17Z",
             "owner": "gboeing",
             "repo": "osmnx",
-            "stars": 5619
+            "stars": 5621
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2025-02-17T11:49:30Z",
             "owner": "City-Form-Lab",
             "repo": "madina",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T10:55:56Z",
+            "last_commit": "2026-04-01T11:00:25Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 599
@@ -428,10 +428,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-30T20:41:38Z",
+            "last_commit": "2026-04-02T02:33:26Z",
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 3906
+            "stars": 3907
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-03-31T18:48:38Z",
             "owner": "rasterio",
             "repo": "rasterio",
-            "stars": 2507
+            "stars": 2506
           }
         },
         {
@@ -505,7 +505,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-28T17:53:25Z",
+            "last_commit": "2026-04-01T13:06:52Z",
             "owner": "uscuni",
             "repo": "neatnet",
             "stars": 152
@@ -583,7 +583,7 @@
             "last_commit": "2026-03-31T19:06:44Z",
             "owner": "r-spatial",
             "repo": "rgee",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -682,7 +682,7 @@
             "last_commit": "2026-02-28T01:49:55Z",
             "owner": "chartjs",
             "repo": "Chart.js",
-            "stars": 67316
+            "stars": 67322
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-03-29T17:46:31Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10306
+            "stars": 10302
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-01-30T15:29:14Z",
             "owner": "MobilityData",
             "repo": "awesome-transit",
-            "stars": 1715
+            "stars": 1717
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2026-04-01T00:48:19Z",
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2474
+            "stars": 2476
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2026-03-29T12:19:10Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5260
+            "stars": 5264
           }
         },
         {
@@ -822,10 +822,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-30T12:09:51Z",
+            "last_commit": "2026-04-01T19:36:38Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 8837
+            "stars": 8838
           }
         }
       ],
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:38:27.434Z",
+    "last_updated": "2026-04-02T04:17:09.700Z",
     "original_repository": "APA-Technology-Division/urban-and-regional-planning-resources",
     "source_repository": "v1nvn/enhansome-urban-and-regional-planning-resources",
     "source_repository_description": null,
